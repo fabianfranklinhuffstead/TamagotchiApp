@@ -11,6 +11,7 @@
   <li>Talk Tamogochi</li>
   <li>Heal Tamogochi</li>
   <li>End game</li>
+  <li>-- Fixes and bug changes</li>
 </ul>
 
 <p>Please contact for fixes, changes further instructions</p>
