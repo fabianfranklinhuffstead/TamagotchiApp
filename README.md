@@ -11,6 +11,7 @@
   <li>Talk Tamogochi</li>
   <li>Heal Tamogochi</li>
   <li>End game</li>
+  <li> --Future improvements include variation animation updates</li>
 </ul>
 
 <p>Please contact for fixes, changes or further instructions</p>
