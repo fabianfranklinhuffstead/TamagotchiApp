@@ -1,6 +1,6 @@
 # Tamagotchi App
 
-<p>A basic pure C# solution for creating 1996 Tamagotchi  Japanese Toy</p>
+<p>A basic pure C# solution for creating 1996 <a href="https://en.wikipedia.org/wiki/Tamagotchi">Tamagotchi  Japanese Toy</a></p>
 
 <h2>The task: </h2>
 <ul>
