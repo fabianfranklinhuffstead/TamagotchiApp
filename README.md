@@ -13,5 +13,5 @@
   <li>End game</li>
 </ul>
 
-<p>Please contact for fixes, changes or further instructions</p>
-<p> -- Future improvements include variation animation updates</p>
+<p>Please contact for fixes, changes or further instructions.</p>
+<p> -- Future improvements include variation animation updates.</p>
