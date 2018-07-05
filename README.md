@@ -14,4 +14,4 @@
 </ul>
 
 <p>Please contact for fixes, changes or further instructions.</p>
-<p> -- Future improvements include variation animation updates.</p>
+<p> -- Future improvements include variation animation updates. Extensibleness can be apply due to object oriented approach</p>
