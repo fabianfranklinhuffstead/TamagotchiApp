@@ -1,6 +1,6 @@
 # Tamagotchi App
 
-<p>A basic pure C# solution for creating 1996 <a href="https://en.wikipedia.org/wiki/Tamagotchi">Tamagotchi</a> Japanese Toy</p>
+<p>A basic pure C# solution for creating 1996 <a href="https://en.wikipedia.org/wiki/Tamagotchi">Tamagotchi</a> Japanese Toy.</p>
 
 <img src="https://github.com/fabianfranklinhuffstead/tamagotchiApp/blob/master/image.png" height="20%" width="20%">
 
