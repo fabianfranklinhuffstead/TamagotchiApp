@@ -2,7 +2,7 @@
 
 <p>A basic pure C# solution for creating 1996 <a href="https://en.wikipedia.org/wiki/Tamagotchi">Tamagotchi</a> Japanese Toy</p>
 
-<img src="https://github.com/fabianfranklinhuffstead/tamagotchiApp/blob/master/image.png">
+<img src="https://github.com/fabianfranklinhuffstead/tamagotchiApp/blob/master/image.png" height="50%" width="50%">
 
 <h2>The task: </h2>
 <ul>
